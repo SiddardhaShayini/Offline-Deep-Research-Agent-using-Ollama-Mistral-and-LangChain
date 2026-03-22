@@ -1,5 +1,11 @@
 # Offline Deep Research Agent using Ollama Mistral and LangChain
 
+![Python](https://img.shields.io/badge/Python%2B-blue)
+![LangChain](https://img.shields.io/badge/LangChain-orange)
+![Ollama](https://img.shields.io/badge/Ollama-yellow)
+![Mistral](https://img.shields.io/badge/Mistral-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A complete rewrite of the original deep research system to use **Ollama with mistral** instead of external APIs (Claude, OpenAI, Tavily).
 
 ## 📋 Architecture
