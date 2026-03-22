@@ -2,19 +2,6 @@
 
 A complete rewrite of the original deep research system to use **Ollama with mistral** instead of external APIs (Claude, OpenAI, Tavily).
 
-## 🎯 Key Changes from Original
-
-| Aspect | Original | New |
-|--------|----------|-----|
-| **Primary LLM** | Claude Sonnet (API) | mistral (Local Ollama) |
-| **Summarization** | GPT-4.1-mini (API) | mistral (Local Ollama) |
-| **Web Search** | Tavily API | Local Knowledge Base |
-| **Internet Required** | Yes | No |
-| **API Keys Required** | Yes (Multiple) | No |
-| **Cost** | Per API call | Free (hardware only) |
-| **Latency** | Network + API | Local processing only |
-| **Privacy** | Data sent to APIs | All data local |
-
 ## 📋 Architecture
 
 ```
