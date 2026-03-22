@@ -1,4 +1,4 @@
-# Ollama + mistral Research System
+# Offline Deep Research Agent using Ollama Mistral and LangChain
 
 A complete rewrite of the original deep research system to use **Ollama with mistral** instead of external APIs (Claude, OpenAI, Tavily).
 
