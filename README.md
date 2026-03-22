@@ -1,6 +1,6 @@
 # Offline Deep Research Agent using Ollama Mistral and LangChain
 
-![Python](https://img.shields.io/badge/Python%2B-blue)
+![Python](https://img.shields.io/badge/Python-blue)
 ![LangChain](https://img.shields.io/badge/LangChain-orange)
 ![Ollama](https://img.shields.io/badge/Ollama-yellow)
 ![Mistral](https://img.shields.io/badge/Mistral-blue)
@@ -339,3 +339,6 @@ Feel free to extend this system with:
 ---
 
 **Happy researching! 🚀**
+---
+## 👨‍💻 Developer
+**Siddardha Shayini** 
